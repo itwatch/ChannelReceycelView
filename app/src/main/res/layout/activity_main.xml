@@ -7,14 +7,6 @@
 >
 
 
-    <TextView
-        android:id="@+id/tv_different"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="添加的demoView"/>
-
-
-
     <android.support.v7.widget.RecyclerView
         android:id="@+id/tv_rceycl"
         android:layout_width="match_parent"
